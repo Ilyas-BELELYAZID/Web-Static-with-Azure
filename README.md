@@ -181,18 +181,24 @@ Table of Contents
   4.2. Identity: Configuring a Custom Domain
   4.3. Security: Enforcing HTTPS with the CDN
 
-5. Monitoring and Cost Analysis
-  5.1. Monitoring (Using Azure Monitor)
-  5.2. Cost Analysis
-    5.2.1. Estimated Monthly Cost
-    5.2.2. Comparison with Traditional Hosting
+5. Automation & DevOps (GitHub Integration)
+  5.1. Workflow Architecture
+  5.2. Security Configuration (Secrets)
+  5.3. The Deployment Pipeline (YAML)
+  5.4. Impact
 
-6. Conclusion
-  6.1. Summary of Work
-  6.2. Challenges Encountered
-  6.3. Future Perspectives (e.g., CI/CD Automation)
+6. Monitoring and Cost Analysis
+  6.1. Monitoring (Using Azure Monitor)
+  6.2. Cost Analysis
+    6.2.1. Estimated Monthly Cost
+    6.2.2. Comparison with Traditional Hosting
 
-7. Appendices
+7. Conclusion
+  7.1. Summary of Work
+  7.2. Challenges Encountered
+  7.3. Future Perspectives (e.g., CI/CD Automation)
+
+8. Appendices
   Appendix A: Key Screenshots
   Appendix B: Link to the Live Website
   Appendix C: Link to the GitHub Repository (for the portfolio code)
